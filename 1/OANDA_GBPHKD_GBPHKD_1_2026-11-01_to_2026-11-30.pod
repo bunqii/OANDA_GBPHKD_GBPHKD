@@ -6,7 +6,7 @@
   "chunk_end": "2026-11-30",
   "parquet_file": "OANDA_GBPHKD_GBPHKD_1_2026-11-01_to_2026-11-30.parquet",
   "data_file": "OANDA_GBPHKD_GBPHKD_1_2026-11-01_to_2026-11-30.parquet",
-  "row_count": 21449,
+  "row_count": 21999,
   "first_candle": {
     "time": 1793570640,
     "Time": "2026-11-01T22:04:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 1
   },
   "last_candle": {
-    "time": 1795211940,
-    "Time": "2026-11-20T21:59:00.000000000Z",
-    "open": 10.25774,
-    "high": 10.25828,
-    "low": 10.25609,
-    "close": 10.25828,
-    "volume": 67
+    "time": 1795418100,
+    "Time": "2026-11-23T07:15:00.000000000Z",
+    "open": 10.28708,
+    "high": 10.28935,
+    "low": 10.28708,
+    "close": 10.28935,
+    "volume": 47
   },
   "csv_file": "OANDA_GBPHKD_GBPHKD_1_2026-11-01_to_2026-11-30.parquet",
-  "csv_row_count": 21449,
+  "csv_row_count": 21999,
   "csv_first_candle": {
     "time": 1793570640,
     "Time": "2026-11-01T22:04:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 1
   },
   "csv_last_candle": {
-    "time": 1795211940,
-    "Time": "2026-11-20T21:59:00.000000000Z",
-    "open": 10.25774,
-    "high": 10.25828,
-    "low": 10.25609,
-    "close": 10.25828,
-    "volume": 67
+    "time": 1795418100,
+    "Time": "2026-11-23T07:15:00.000000000Z",
+    "open": 10.28708,
+    "high": 10.28935,
+    "low": 10.28708,
+    "close": 10.28935,
+    "volume": 47
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-11-21T07:03:27.000000000Z",
-  "generated_at": "2026-11-21T07:03:27.000000000Z",
+  "verified_at": "2026-11-23T07:17:01.000000000Z",
+  "generated_at": "2026-11-23T07:17:01.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-11-20T06:57:00Z",
-        "to": "2026-11-20T22:00:00Z",
+        "from": "2026-11-20T21:54:00Z",
+        "to": "2026-11-23T07:16:00Z",
         "code": 200,
         "msg": "OK"
       }
